@@ -94,48 +94,50 @@ python manage.py runserver
 
 Ahora entra en 👉 http://localhost:8000
 
+# MovieReviews
+
+Aplicación web desarrollada en Django para la gestión de películas, reseñas y noticias.
+
+---
+
 ## 🖼️ Capturas de pantalla
 
 ### Home
-![Home](capturas/home.png)
+![Home](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/home.png)
 
 ### Login / Registro
-![Login](capturas/login.png)
-![Registro](capturas/registro.png)
+![Login](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/Login.png)
+![Registro](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/Registro.png)
 
 ### Sección de reseñas
-![Resenas Usuario](capturas/seccion_resenas_user.png)
-![Resenas Admin](capturas/seccion_resenas_admin.png)
-![Añadir Resena](capturas/seccion_add_resenas.png)
+![Reseñas Usuario](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/seccion_resenas_user.png)
+![Reseñas Admin](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/seccion_resenas_admin.png)
+![Añadir Reseña](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/seccion_add_resenas.png)
 
 ### Sección de news
-![News](capturas/seccion_news.png)
+![News](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/seccion_news.png)
 
 ### Administración
-![Panel](capturas/panel.png)
-![Gestion Peliculas](capturas/gestion_peliculas.png)
-![Gestion Resenas](capturas/gestion_resenas.png)
-![Gestion News](capturas/gestion_news.png)
-![Crear Pelicula](capturas/creacion_pelicula.png)
-![Crear Resena](capturas/creacion_resena.png)
-![Crear News](capturas/creacion_news.png)
+![Panel](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/panel.png)
+![Gestión Películas](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/gestion_peliculas.png)
+![Gestión Reseñas](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/gestion_resenas.png)
+![Gestión News](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/gestion_news.png)
+![Crear Película](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/creacion_pelicula.png)
+![Crear Reseña](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/creacion_resena.png)
+![Crear News](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/creacion_news.png)
 
-### Home
-![Home](capturas/home.png)
+---
 
-### Login / Registro
-![Login](capturas/login.png)
-![Registro](capturas/registro.png)
+## 👨‍💻 Autor
 
-### Sección de reseñas
-![Resenas Usuario](capturas/seccion_resenas_user.png)
-![Resenas Admin](capturas/seccion_resenas_admin.png)
-![Añadir Resena](capturas/seccion_add_resenas.png)
+Desarrollado por Jesús David Vivas C.
 
-### Administración
-![Panel](capturas/panel.png)
-![Gestion Peliculas](capturas/gestion_peliculas.png)
-![Gestion Resenas](capturas/gestion_resenas.png)
+---
+
+## 📜 Licencia
+
+Este proyecto está bajo la licencia MIT.
+Eres libre de usarlo, modificarlo y distribuirlo.
 
 
 👨‍💻 Autor
