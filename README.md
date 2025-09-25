@@ -100,38 +100,6 @@ Aplicación web desarrollada en Django para la gestión de películas, reseñas 
 
 ---
 
-## 🖼️ Capturas de pantalla
-
-### Home
-![Home](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/home.png)
-
-### Login / Registro
-![Login](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/Login.png)
-### Login
-https://github.com/davidvivascamargo/moviereviews/blob/main/capturas/Login.png?raw=true
-
-![Login](https://github.com/davidvivascamargo/moviereviews/blob/main/capturas/Login.png)
-![Registro](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/Registro.png)
-
-### Sección de reseñas
-![Reseñas Usuario](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/seccion_resenas_user.png)
-![Reseñas Admin](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/seccion_resenas_admin.png)
-![Añadir Reseña](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/seccion_add_resenas.png)
-
-### Sección de news
-![News](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/seccion_news.png)
-
-### Administración
-![Panel](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/panel.png)
-![Gestión Películas](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/gestion_peliculas.png)
-![Gestión Reseñas](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/gestion_resenas.png)
-![Gestión News](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/gestion_news.png)
-![Crear Película](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/creacion_pelicula.png)
-![Crear Reseña](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/creacion_resena.png)
-![Crear News](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/creacion_news.png)
-
----
-
 ## 👨‍💻 Autor
 
 Desarrollado por Jesús David Vivas C.
