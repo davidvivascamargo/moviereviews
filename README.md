@@ -95,29 +95,43 @@ python manage.py runserver
 
 Ahora entra en 👉 http://localhost:8000
 
-🖼️ Capturas de pantalla
-Home de la aplicación:  
+## 🖼️ Capturas de pantalla
 
-Login / Registro:  
+### Home de la aplicación
+![Home](capturas/Home%20de%20la%20aplicaci%C3%B3n.png)
 
-Sección de reseñas:  
+### Login
+![Login](capturas/Login.png)
 
+### Registro
+![Registro](capturas/Registro.png)
 
-Sección de news:
+### Sección de reseñas
+![Sección de reseñas](capturas/Secci%C3%B3n%20de%20rese%C3%B1as.png)
 
+### Sección de news
+![Sección de news](capturas/Secci%C3%B3n%20de%20news.png)
 
-Vista general del panel:  
+### Gestión de películas
+![Gestión de películas](capturas/Gesti%C3%B3n%20de%20pel%C3%ADculas.png)
 
+### Gestión de reseñas
+![Gestión de reseñas](capturas/Gesti%C3%B3n%20de%20rese%C3%B1as.png)
 
-Gestión de películas:
+### Gestión de news
+![Gestión de news](capturas/Gesti%C3%B3n%20de%20news.png)
 
+### Vista creación de película
+![Vista creación de película](capturas/Vista%20creaci%C3%B3n%20de%20pel%C3%ADcula.png)
 
+### Vista creación de reseña
+![Vista creación de reseña](capturas/Vista%20creaci%C3%B3n%20de%20rese%C3%B1a.png)
 
-Gestión de reseñas:  
+### Vista creación de news
+![Vista creación de news](capturas/Vista%20creaci%C3%B3n%20de%20news.png)
 
-
-Gestión de news:
-
+### Vista general del panel
+![Vista general del panel](capturas/Vista%20general%20del%20panel.png)
 
 👨‍💻 Autor
 
