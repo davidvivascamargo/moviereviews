@@ -35,7 +35,6 @@ moviereviews/
 Puedes ver la aplicación funcionando aquí:  
 https://davidvivascamargo.pythonanywhere.com/
 
-
 ---
 
 ## ⚙️ Requisitos
@@ -105,20 +104,20 @@ Ahora entra en 👉 http://localhost:8000
 ![Registro](capturas/registro.png)
 
 ### Sección de reseñas
-![Reseñas Usuario](capturas/seccion_resenas_user.png)
-![Reseñas Admin](capturas/seccion_resenas_admin.png)
-![Añadir Reseña](capturas/seccion_add_resenas.png)
+![Resenas Usuario](capturas/seccion_resenas_user.png)
+![Resenas Admin](capturas/seccion_resenas_admin.png)
+![Añadir Resena](capturas/seccion_add_resenas.png)
 
 ### Sección de news
 ![News](capturas/seccion_news.png)
 
 ### Administración
 ![Panel](capturas/panel.png)
-![Gestión Películas](capturas/gestion_peliculas.png)
-![Gestión Reseñas](capturas/gestion_resenas.png)
-![Gestión News](capturas/gestion_news.png)
-![Crear Película](capturas/creacion_pelicula.png)
-![Crear Reseña](capturas/creacion_resena.png)
+![Gestion Peliculas](capturas/gestion_peliculas.png)
+![Gestion Resenas](capturas/gestion_resenas.png)
+![Gestion News](capturas/gestion_news.png)
+![Crear Pelicula](capturas/creacion_pelicula.png)
+![Crear Resena](capturas/creacion_resena.png)
 ![Crear News](capturas/creacion_news.png)
 
 👨‍💻 Autor
