@@ -100,6 +100,12 @@ Aplicación web desarrollada en Django para la gestión de películas, reseñas 
 
 ---
 
+### Login / Registro
+![Login](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/Login.png)
+![Registro](https://github.com/davidvivascamargo/moviereviews/raw/main/capturas/Registro.png)
+
+---
+
 ## 👨‍💻 Autor
 
 Desarrollado por Jesús David Vivas C.
