@@ -120,6 +120,24 @@ Ahora entra en 👉 http://localhost:8000
 ![Crear Resena](capturas/creacion_resena.png)
 ![Crear News](capturas/creacion_news.png)
 
+### Home
+![Home](capturas/home.png)
+
+### Login / Registro
+![Login](capturas/login.png)
+![Registro](capturas/registro.png)
+
+### Sección de reseñas
+![Resenas Usuario](capturas/seccion_resenas_user.png)
+![Resenas Admin](capturas/seccion_resenas_admin.png)
+![Añadir Resena](capturas/seccion_add_resenas.png)
+
+### Administración
+![Panel](capturas/panel.png)
+![Gestion Peliculas](capturas/gestion_peliculas.png)
+![Gestion Resenas](capturas/gestion_resenas.png)
+
+
 👨‍💻 Autor
 
 Desarrollado por Jesús David Vivas C.
