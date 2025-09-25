@@ -97,41 +97,29 @@ Ahora entra en 👉 http://localhost:8000
 
 ## 🖼️ Capturas de pantalla
 
-### Home de la aplicación
-![Home](capturas/Home%20de%20la%20aplicaci%C3%B3n.png)
+### Home
+![Home](capturas/home.png)
 
-### Login
-![Login](capturas/Login.png)
-
-### Registro
-![Registro](capturas/Registro.png)
+### Login / Registro
+![Login](capturas/login.png)
+![Registro](capturas/registro.png)
 
 ### Sección de reseñas
-![Sección de reseñas](capturas/Secci%C3%B3n%20de%20rese%C3%B1as.png)
+![Reseñas Usuario](capturas/seccion_resenas_user.png)
+![Reseñas Admin](capturas/seccion_resenas_admin.png)
+![Añadir Reseña](capturas/seccion_add_resenas.png)
 
 ### Sección de news
-![Sección de news](capturas/Secci%C3%B3n%20de%20news.png)
+![News](capturas/seccion_news.png)
 
-### Gestión de películas
-![Gestión de películas](capturas/Gesti%C3%B3n%20de%20pel%C3%ADculas.png)
-
-### Gestión de reseñas
-![Gestión de reseñas](capturas/Gesti%C3%B3n%20de%20rese%C3%B1as.png)
-
-### Gestión de news
-![Gestión de news](capturas/Gesti%C3%B3n%20de%20news.png)
-
-### Vista creación de película
-![Vista creación de película](capturas/Vista%20creaci%C3%B3n%20de%20pel%C3%ADcula.png)
-
-### Vista creación de reseña
-![Vista creación de reseña](capturas/Vista%20creaci%C3%B3n%20de%20rese%C3%B1a.png)
-
-### Vista creación de news
-![Vista creación de news](capturas/Vista%20creaci%C3%B3n%20de%20news.png)
-
-### Vista general del panel
-![Vista general del panel](capturas/Vista%20general%20del%20panel.png)
+### Administración
+![Panel](capturas/panel.png)
+![Gestión Películas](capturas/gestion_peliculas.png)
+![Gestión Reseñas](capturas/gestion_resenas.png)
+![Gestión News](capturas/gestion_news.png)
+![Crear Película](capturas/creacion_pelicula.png)
+![Crear Reseña](capturas/creacion_resena.png)
+![Crear News](capturas/creacion_news.png)
 
 👨‍💻 Autor
 
