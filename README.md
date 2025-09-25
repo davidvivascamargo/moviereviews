@@ -97,45 +97,27 @@ Ahora entra en 👉 http://localhost:8000
 
 🖼️ Capturas de pantalla
 Home de la aplicación:  
-<img width="1895" height="931" alt="Captura de pantalla 2025-09-25 142122" src="https://github.com/user-attachments/assets/addab7de-8016-4b3e-872d-9986c7dcc563" />
 
 Login / Registro:  
 
-<img width="1913" height="749" alt="Captura de pantalla 2025-09-25 142619" src="https://github.com/user-attachments/assets/27be4955-ed52-4f8b-9860-050d84daa675" />
-
-<img width="1918" height="889" alt="Captura de pantalla 2025-09-25 142700" src="https://github.com/user-attachments/assets/689de020-e90b-4194-a81c-6f1137aa2244" />
-
 Sección de reseñas:  
 
-<img width="1910" height="893" alt="Captura de pantalla 2025-09-25 143831" src="https://github.com/user-attachments/assets/a7ef1c90-b46e-4c5c-b265-70c970373e49" />
-
-<img width="1919" height="932" alt="Captura de pantalla 2025-09-25 143919" src="https://github.com/user-attachments/assets/218d2600-48af-49ff-9d00-689dedee79d3" />
 
 Sección de news:
 
-<img width="1916" height="949" alt="Captura de pantalla 2025-09-25 145340" src="https://github.com/user-attachments/assets/48ad8e8f-1798-488b-a21d-7e8507bd48e7" />
 
 Vista general del panel:  
 
-<img width="1908" height="843" alt="Captura de pantalla 2025-09-25 144146" src="https://github.com/user-attachments/assets/bc15ba13-067f-4eee-9c3d-72d622956cbc" />
 
 Gestión de películas:
 
-<img width="1919" height="889" alt="Captura de pantalla 2025-09-25 144246" src="https://github.com/user-attachments/assets/8b50a0d9-3e40-4b07-bcc5-70857f647894" />
 
-<img width="1882" height="925" alt="Captura de pantalla 2025-09-25 144317" src="https://github.com/user-attachments/assets/bffaabef-48aa-410e-98f3-2af015bd3b35" />
 
 Gestión de reseñas:  
 
-<img width="1887" height="883" alt="Captura de pantalla 2025-09-25 144419" src="https://github.com/user-attachments/assets/1db45d3d-091e-4c48-a79b-972295869046" />
-
-<img width="1895" height="909" alt="Captura de pantalla 2025-09-25 144530" src="https://github.com/user-attachments/assets/3d1edb30-9cbe-41f1-b9c9-759942040e79" />
 
 Gestión de news:
 
-<img width="1918" height="839" alt="Captura de pantalla 2025-09-25 145156" src="https://github.com/user-attachments/assets/01f4eb06-2ce0-4248-b313-d5e6e3179356" />
-
-<img width="1896" height="943" alt="Captura de pantalla 2025-09-25 145301" src="https://github.com/user-attachments/assets/0cb25dfc-3379-4f6b-a6d4-825eaa2cc5cd" />
 
 👨‍💻 Autor
 
