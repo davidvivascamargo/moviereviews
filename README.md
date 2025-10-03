@@ -18,15 +18,25 @@ El proyecto incluye autenticación de usuarios, un sistema de reseñas dinámico
 
 ## 📂 Estructura del proyecto
 moviereviews/
+
 │── accounts/ # App de autenticación de usuarios
+
 │── media/ # Archivos subidos por los usuarios
+
 │── movie/ # App para reseñas y gestión de películas
+
 │── moviereviews/ # Configuración principal del proyecto Django
+
 │── news/ # App de noticias de cine
+
 │── static/ # Archivos estáticos (CSS, JS, imágenes)
+
 │── manage.py # Script principal de Django
+
 │── db.sqlite3 # Base de datos por defecto (SQLite)
+
 │── requirements.txt # Dependencias del proyecto
+
 │── README.md # Documentación
 ---
 
