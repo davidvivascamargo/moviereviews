@@ -94,47 +94,57 @@ python manage.py runserver
 
 Ahora entra en 👉 http://localhost:8000
 
+---
+
 # Vista de la Aplicación MovieReviews
 
 ## 🏠 Home
 ![Home](capturas/home.png)  
-*Pantalla de inicio de la aplicación.*
+*Pantalla de inicio de la aplicación.*  
 
 ## 🔐 Login y Registro
 ![Login](capturas/Login.png)  
 *Formulario de inicio de sesión.*  
+
 ![Registro](capturas/Registro.png)  
-*Formulario de registro de usuario.*
+*Formulario de registro de usuario.*  
 
 ## 🎬 Gestión de Películas
 ![Crear Película](capturas/creacion_pelicula.png)  
 *Formulario para crear una nueva película.*  
+
 ![Gestión Películas](capturas/gestion_peliculas.png)  
-*Panel para editar y eliminar películas existentes.*
+*Panel para editar y eliminar películas existentes.*  
 
 ## 📰 Noticias
 ![Crear News](capturas/creacion_news.png)  
 *Formulario para crear noticias.*  
+
 ![Gestión News](capturas/gestion_news.png)  
 *Panel de gestión de noticias existentes.*  
+
 ![Sección News](capturas/seccion_news.png)  
-*Vista de la sección de noticias en la página.*
+*Vista de la sección de noticias en la página.*  
 
 ## 📝 Reseñas
 ![Crear Reseña](capturas/creacion_resena.png)  
 *Formulario para crear reseñas de películas.*  
+
 ![Gestión Reseñas](capturas/gestion_resenas.png)  
 *Panel de gestión de reseñas existentes.*  
+
 ![Sección Reseñas Usuario](capturas/seccion_resenas_user.png)  
 *Vista de reseñas para usuarios.*  
+
 ![Sección Reseñas Admin](capturas/seccion_resenas_admin.png)  
 *Vista de reseñas para administradores.*  
+
 ![Añadir Reseña](capturas/seccion_add_resenas.png)  
-*Formulario para añadir nuevas reseñas.*
+*Formulario para añadir nuevas reseñas.*  
 
 ## ⚙️ Panel de Control
 ![Panel](capturas/panel.png)  
-*Vista general del panel de administración.*
+*Vista general del panel de administración.*  
 
 ---
 
