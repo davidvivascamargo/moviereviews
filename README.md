@@ -101,9 +101,9 @@ Ahora entra en 👉 http://localhost:8000
 *Pantalla de inicio de la aplicación.*
 
 ## 🔐 Login y Registro
-![Login](capturas/login.png)  
+![Login](capturas/Login.png)  
 *Formulario de inicio de sesión.*  
-![Registro](capturas/registro.png)  
+![Registro](capturas/Registro.png)  
 *Formulario de registro de usuario.*
 
 ## 🎬 Gestión de Películas
