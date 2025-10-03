@@ -120,3 +120,45 @@ Desarrollado por Jesús David Vivas C.
 
 Este proyecto está bajo la licencia MIT.
 Eres libre de usarlo, modificarlo y distribuirlo.
+
+## 📸 Capturas de Pantalla
+
+### 🏠 Home
+![Home](capturas/home.png)  
+*Pantalla de inicio de la aplicación*
+
+### 🔐 Login y Registro
+![Login](capturas/login.png)  
+*Formulario de inicio de sesión*  
+![Registro](capturas/registro.png)  
+*Formulario de registro de usuario*
+
+### 🎬 Gestión de Películas
+![Creación Película](capturas/creacion_pelicula.png)  
+*Creación de una nueva película en el sistema*  
+![Gestión Películas](capturas/gestion_peliculas.png)  
+*Panel para editar y eliminar películas existentes*
+
+### 📰 Noticias
+![Creación News](capturas/creacion_news.png)  
+*Formulario para crear noticias*  
+![Gestión News](capturas/gestion_news.png)  
+*Panel de gestión de noticias existentes*  
+![Sección News](capturas/seccion_news.png)  
+*Vista de la sección de noticias en la página*
+
+### 📝 Reseñas
+![Creación Reseña](capturas/creacion_resena.png)  
+*Formulario para crear reseñas*  
+![Gestión Reseñas](capturas/gestion_resenas.png)  
+*Panel de gestión de reseñas*  
+![Sección Reseñas Usuario](capturas/seccion_resenas_user.png)  
+*Vista de reseñas para usuarios*  
+![Sección Reseñas Admin](capturas/seccion_resenas_admin.png)  
+*Vista de reseñas para el administrador*  
+![Añadir Reseña](capturas/seccion_add_resenas.png)  
+*Formulario para añadir nuevas reseñas*
+
+### ⚙️ Panel de Control
+![Panel](capturas/panel.png)  
+*Vista general del panel de administración*
